@@ -1,5 +1,5 @@
 # PYTHON
-🐍 Python Learning 
+# 🐍 Python Learning 
 
 This repository documents my learning journey while studying Python 
 
