@@ -27,11 +27,3 @@ print(l1)
 print("konichiwa,arigato,hai,lie")
 
 print("konichiwa,arigato,hai,lie")
-
-
-
-for ( 
-
-    1 to 100
-
-)
