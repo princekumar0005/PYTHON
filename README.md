@@ -85,8 +85,10 @@ In this journey, I am:
 
 🙌 Credits
 
-- Learning from CodeWithHarry
+- Learning from CodeWithHarry / Apna college 
 - Video: https://youtu.be/UrsmFxEIp5k
+- Video: https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=mX4AIVwY-wQwZebu
+
 
 ---
 
